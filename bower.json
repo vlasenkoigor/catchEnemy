@@ -1,0 +1,11 @@
+{
+  "name": "trap_tiger",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "pathfinding": "~0.4.17"
+  }
+}
